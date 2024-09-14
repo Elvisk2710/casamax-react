@@ -1,0 +1,24 @@
+.container{
+    width: 100%;
+    max-width: 15vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    background-color: rgb(252, 153, 82);
+    padding: 1.4rem;
+    border-radius: 20px;
+    box-shadow: 2px 2px 15px rgb(241, 241, 241,0.4);
+}
+.heading{
+    text-align: center;
+    font-size: 1.2rem;
+}
+.css-188mx6n-MuiSlider-root{
+    color: rgb(8, 8, 12) !important;
+}
+
+.input{
+    width: 100%;
+}
